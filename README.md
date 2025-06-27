@@ -1,15 +1,22 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**SirNacou/SirNacou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ✨ Greetings, Fellow Coder! ✨
 
-Here are some ideas to get you started:
+My name is Quoc Anh and I'm a full-stack developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+When I'm not coding, you can find me:
+
+- 🏋️ Working out
+
+- 🎮 Gaming
+
+- 📚 Continuously learning and improving my software engineering knowledge
+
+What I'm Up To
+
+Currently exploring new technologies and building projects that make a difference. I'm keen on open-source and self-hosted solutions, aligning with a more independent and secure digital life. My aim is to grow professionally, earn more, and ultimately live a better life through my skills and dedication.
+Connect with Me
+
+Feel free to explore my repositories or reach out!
+
+- My Repositories (Replace your-username with your actual GitHub username)
+
+- LinkedIn (Optional: Replace with your LinkedIn or remove)
