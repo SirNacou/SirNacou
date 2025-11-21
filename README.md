@@ -16,7 +16,3 @@ Currently exploring new technologies and building projects that make a differenc
 Connect with Me
 
 Feel free to explore my repositories or reach out!
-
-- My Repositories (Replace your-username with your actual GitHub username)
-
-- LinkedIn (Optional: Replace with your LinkedIn or remove)
