@@ -21,11 +21,11 @@
 
 ## 📊 GitHub Stats
 
-<a href="https://github.com/SirNacou">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SirNacou&show_icons=true&theme=transparent&include_all_commits=true&rank_icon=github" />
+<a href="https://github.com/Pranesh-2005/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=SirNacou" />
 </a>
-<a href="https://github.com/SirNacou">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SirNacou&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+<a href="https://github.com/Pranesh-2005/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=SirNacou&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 ## 🚀 Featured Projects
