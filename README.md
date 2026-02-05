@@ -21,22 +21,21 @@
 
 ## 📊 GitHub Stats
 
-<a href="https://github.com/Pranesh-2005/github-readme-stats">
+<a href="https://github.com/SirNacou/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=SirNacou" />
 </a>
-<a href="https://github.com/Pranesh-2005/convoychat">
+<a href="https://github.com/SirNacou/convoychat">
   <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=SirNacou&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 ## 🚀 Featured Projects
 
-### [weeate](https://github.com/SirNacou/weeate)
-A web application project built with modern technologies.  
-`TypeScript` `Full-Stack`
-
-### [refract](https://github.com/SirNacou/refract)
-A Go-based project exploring modern architecture patterns.  
-`Go` `Backend`
+<a href="https://github.com/SirNacou/refract">
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=SirNacou&repo=refract" />
+</a>
+<a href="https://github.com/SirNacou/weeate">
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=SirNacou&repo=weeate" />
+</a>
 
 ## 💡 Currently
 
