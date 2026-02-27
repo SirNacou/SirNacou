@@ -2,9 +2,8 @@
 
 ### Back End Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SirNacou&label=Profile views&color=0e75b6&style=flat" alt="SirNacou" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SirNacou" alt="SirNacou" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SirNacou&label=Profile%20views&color=0e75b6&style=flat" alt="SirNacou" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://gh-trophy.cdnsoft.net?username=SirNacou" alt="SirNacou" /></a> </p>
 
 - 🔭 I'm currently working on **sluice**
 
