@@ -1,48 +1,35 @@
-# Hi there, I'm Nacou 👋
+# Hi 👋, I'm Nguyen Quoc Anh
 
-**Full-Stack Developer | Ho Chi Minh City, Vietnam 🇻🇳**
+### Back End Developer
 
-> Exploring new technologies and building projects that make a difference. Focused on open-source and self-hosted solutions.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SirNacou&label=Profile views&color=0e75b6&style=flat" alt="SirNacou" /> </p>
 
-## 🛠️ Tech Stack
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SirNacou" alt="SirNacou" /></a> </p>
 
-**Languages**  
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- 🔭 I'm currently working on **sluice**
 
-## 📊 GitHub Stats
+- 🌱 I'm currently learning **Rust, k8s**
 
-<a href="https://github.com/SirNacou/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=SirNacou" />
-</a>
-<a href="https://github.com/SirNacou/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=SirNacou&layout=compact&langs_count=8&card_width=320" />
-</a>
+- 💬 Ask me about **C#, Go**
 
-## 🚀 Featured Projects
+- 📫 How to reach me **quocanhthedev@gmail.com**
 
-<a href="https://github.com/SirNacou/refract">
-  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=SirNacou&repo=refract" />
-</a>
-<a href="https://github.com/SirNacou/weeate">
-  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=SirNacou&repo=weeate" />
-</a>
+- ⚡ Fun fact **I love working out, gaming, and learn more about software engineering**
 
-## 💡 Currently
+- 📄 Know about my experiences **[https://drive.google.com/file/d/1isPGb7muZQUxORjJOiaHxwYPInpj3Gs3/view?usp=sharing](https://drive.google.com/file/d/1isPGb7muZQUxORjJOiaHxwYPInpj3Gs3/view?usp=sharing)**
 
-- Building projects focused on web applications and microservices
-- Exploring modern architectures with C#, Go, Rust, and TypeScript
-- Contributing to open-source and self-hosted solutions
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/SirNacou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="SirNacou" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/quoc-anh-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="quoc-anh-dev" height="30" width="40" /></a>
+</p>
 
-## 📫 Connect
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dotnet" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/go" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/rust" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rust" alt="rust" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:quocanhthedev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](#)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SirNacou&show_icons=true&locale=en&layout=compact" alt="SirNacou" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SirNacou&show_icons=true&locale=en" alt="SirNacou" /></p>
 
-**Personal Interests:** 🏋️ Fitness | 🎮 Gaming | 📚 Continuous Learning
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SirNacou&" alt="SirNacou" /></p>
+
