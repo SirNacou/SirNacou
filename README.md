@@ -12,7 +12,7 @@
 
 A skilled Full Stack Developer with a strong background in building efficient IoT solutions and microservices architectures. Experienced in eliminating bottlenecks with event-driven pipelines and enhancing application performance through innovative designs. Passionate about leveraging cutting-edge technologies to deliver impactful projects.
 
-- 🏢 Working at **IOT Viet Solution (IOTVN)** in **Ho Chi Minh City**
+<!-- - 🏢 Working at **IOT Viet Solution (IOTVN)** in **Ho Chi Minh City** -->
 - 🌱 Currently learning **Rust, Kubernetes**
 - 💬 Ask me about **Back End Development**
 - ⚡ I love home automation 🏠💡
@@ -25,7 +25,7 @@ A skilled Full Stack Developer with a strong background in building efficient Io
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SirNacou&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=SirNacou&show_icons=true&include_all_commits=true&theme=ambient_gradient)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SirNacou&theme=github-dark-blue&hide_border=true&background=0d1117)](https://git.io/streak-stats)
 
